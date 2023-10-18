@@ -24,7 +24,9 @@ To run, please follow guidelines from the [CSGM-langevin](https://github.com/utc
 3. Download data and checkpoints
 4. Script for estimating sensitivity maps from data
 
-Alternatively, sensitivity maps can be estimated using SENSE, or J-SENSE as done in SMRD, which are available in [Sigpy](https://sigpy.readthedocs.io/en/latest/)
+Alternatively, sensitivity maps can be estimated using SENSE, or J-SENSE as done in SMRD, which are available in [Sigpy](https://sigpy.readthedocs.io/en/latest/).
+
+To ensure a smooth setup, please make sure that all the versions of the packages listed in `requirements.txt` are compatible with each other.
 
 ## Example commands
 We provide configuration files in ```configs/``` that contain hyper-parameters used in our experiments. Here are example commands for using the configuration files. An example is in the run_inf.sh script file.
