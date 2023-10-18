@@ -10,6 +10,8 @@ This repository implements two papers for diffusion model based MRI reconstructi
 
 ![REDdiff-MRI](images/REDdiff-MRI.png)
 
+For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/).
+
 The code for SMRD and RED-diff MRI was developed based on the [CSGM-langevin](https://github.com/utcsilab/csgm-mri-langevin) repository.
 
 ### Setup
