@@ -1,0 +1,3 @@
+[submodule "ncsnv2"]
+	path = ncsnv2
+	url = git@github.com:ajiljalal/ncsnv2.git
