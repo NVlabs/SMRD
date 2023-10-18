@@ -1,4 +1,4 @@
-torch==1.8.0
+torch
 torchvision
 click
 gdown
@@ -13,11 +13,9 @@ pyspng
 ninja
 imageio-ffmpeg==0.4.3
 torchinfo
-sigpy
 hydra-core==1.0.6
 opencv-python
 matplotlib
 scikit-image==0.19.3
-numba==0.52.0
 numpy==1.20.0
 monai
